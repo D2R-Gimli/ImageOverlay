@@ -23,18 +23,11 @@ A lightweight Windows-only tool that displays any PNG or JPEG as a resizable, se
   - tkinter (included with Python on Windows)  
   - Pillow (install via pip)
 
-Install Pillow:
-
-```
-pip install pillow  
-```
-
 ---
 
 ## 📦 Installation
 
 Download the python file.
-
 Install dependencies:
 
 ```
